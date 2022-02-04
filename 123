@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+        <style>
+            h1 {color:rgb(184, 87, 184); font-size:50px;}
+             h2 {color:rgb(74, 47, 196); font-size:30px;}
+              h3 {color:rgb(58, 209, 111); font-size:30px;
+                  text-decoration:underline;
+              }
+              body {background-color:rgb(238, 240, 195);
+                  text-align:justify;
+                  line-height:1.4;
+              }
+        </style>
+    </head>
+    <body>
+        
+        <h1> Carmen's blog</h1>
+
+        <h3>Contents</h3>
+        <ul>
+            <li><a href="#first">First post! </a> </li>
+             <li><a href="#second">Second post!</a></li>
+        </ul>
+       
+        <h2 id="first">First post</h2>
+        <h6>Enero 2021</h6>
+
+        <p>Something excited happened <br>
+            
+         <p>  <h3> Edificios mas altos de España </h3>
+            España es un país con una cantidad destacable de rascacielos dentro de Europa, teniendo varias ciudades españolas con su propio perfil de torres. Los primeros rascacielos se construyeron durante los años 50 y 70 en ciudades como Madrid y Barcelona. Empero, el ejemplo más significativo de esta época es la ciudad de Benidorm que comenzó a experimentar un auténtico auge en la construcción de edificios en altura, hasta convertirse en una de las ciudades de Europa con mayor número de rascacielos. <br> <br></p>
+<p>
+Con el paso del tiempo se han ido construyendo nuevas edificaciones hasta formar nuevos núcleos de rascacielos, como el parque empresarial madrileño CTBA, junto al paseo de la Castellana, sede de los cuatro edificios más altos del país. El más alto es la Torre de Cristal con 249 metros de altura distribuidos en 50 plantas. Pisándole los talones se encuentra su vecina, la Torre Cepsa, con 248 metros y 49 pisos. El tercer puesto lo ocupa la Torre PwC con 236 metros de alto repartidos en 58 niveles, y por último, en cuarto lugar, se halla la Torre Espacio que se eleva 224 metros dejando 57 plantas. Junto a estas se encuentra el espacio Caleido, una torre de 181 metros de altura con 36 plantas inaugurado en 2021 <br>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Torre_de_Cristal_%28Madrid%29_09a.jpg/1200px-Torre_de_Cristal_%28Madrid%29_09a.jpg" width="203">
+
+        </p>
+        
+        
+        <h2 id="second">Second post</h2>
+        <h6>Febrero 2021</h6>
+        
+        <p>Something excited happened.</p>
+        <h3>Los edificios más altos del mundo</h3>
+        <p>Los edificios más altos del mundo, cuya altura puede ser clasificada de tres formas distintas:
+        <ul>
+
+<li>Altura arquitectónica o estructural (altura oficial del rascacielos) (distancia vertical desde la base hasta el punto arquitectónico o elemento estructural más elevado integrante del edificio).</li>
+<li>Altura a la que se encuentra la azotea o cubierta.</li>
+<li>Punto más alto del edificio.</li></ul>
+En este listado solo se consideran rascacielos:
+
+Los que hayan sido completados o que se hayan coronado arquitectónicamente (se ha instalado su último elemento estructural).
+Los que tengan como mínimo el 50 % de su estructura en uso (hotel, oficinas, entre otros).
+
+        <h3> Continuará..... </h3>
+        <p> Para más información consulta la <a href= "https://ast.wikipedia.org/wiki/Llista_d%27edificios_m%C3%A1s_altos_del_mundu"> wikipedia </a></p>
+    </body>
+</html>
